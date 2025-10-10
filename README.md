@@ -16,6 +16,15 @@
 - ☪️ Believer in learning with **patience, balance, and purpose**
 
 ---
+## 💻 My GitHub Stats:
+
+![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslanrejepov&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arslanrejepov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanrejepov&layout=compact&theme=dark)
+
+---
 
 ### 🛠️ Tech Stack
 **Languages:** Python · C++ · Java  
