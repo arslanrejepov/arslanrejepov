@@ -20,14 +20,12 @@
 
 ![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslanrejepov&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arslanrejepov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Python · C++ · Java  
 **Tools:** Git · GitHub · Jupyter · VS Code  
-**Libraries:** NumPy · Pandas · Matplotlib · Scikit-learn  
 
 ---
 
