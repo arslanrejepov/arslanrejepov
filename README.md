@@ -1,4 +1,4 @@
-## H# 👋 Assalamaleikum, I'm Arslan!
+## 👋 Assalamaleikum, I'm Arslan!
 
 🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**  
 💡 Passionate about **Data Science**, **Artificial Intelligence**, and **Mathematical Thinking**  
