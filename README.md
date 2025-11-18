@@ -1,7 +1,7 @@
-## 👋 Assalamaleikum, I'm Arslan!
+## 👋 Hey, I'm Arslan!
 
 🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**  
-💡 Passionate about **Data Science**, **Artificial Intelligence**, and **Mathematical Thinking**  
+💡 Passionate about **Data Science**, **BACKEND DEV**, and **Mathematical Thinking**  
 💻 Skilled in **Python**, **C++**, and **Java**  
 📊 Practicing **Data Science projects on Kaggle**  
 🌍 Based in **Hangzhou, China**
@@ -9,15 +9,15 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently improving my **Data Science** and **Machine Learning** skills  
-- 📚 I enjoy solving **mathematical** and **algorithmic** challenges  
-- 💬 Love exploring how **AI** connects with **human psychology**   
+- 🔭 Currently improving my **Data Science** and **Backend DEV** skills  
+- 📚 I am good at solving **mathematical** and **algorithmic** challenges  
+- 💬 Interting how **AI** connects with **human psychology**   
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Python · C++ · Java  
-**Tools:** Git · GitHub · Jupyter · VS Code   
+**Tools:** Git · GitHub · Jupyter · VS Code    
 
 ---
 
