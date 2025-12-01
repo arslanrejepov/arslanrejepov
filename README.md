@@ -3,7 +3,7 @@
 🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**  
 💡 Passionate about **Data Science**, **BACKEND DEV**, and **Mathematical Thinking**  
 💻 Skilled in **Python**, **C++**, and **Java**  
-📊 Practicing **Data Science projects on Kaggle**  
+📊 Practicing **Data Science and Backend projects**  
 🌍 Based in **Hangzhou, China**
 
 ---
@@ -25,11 +25,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arsrejpv)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
----
-## 💻 My GitHub Stats:
-
-![Arslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslanrejepov&show_icons=true&theme=dark)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ars.rejepov)
 
 ---
 ## 🗣️ Languages I Speak
