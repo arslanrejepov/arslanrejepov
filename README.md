@@ -1,8 +1,6 @@
 ## 👋 Hey, I'm Arslan!
 
-🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**  
-💡 Passionate about **Data Science**, **BACKEND DEV**, and **Mathematical Thinking**  
-💻 Skilled in **Python**, **C++**, and **Java**  
+🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**   
 📊 Practicing **Data Science and Backend projects**  
 🌍 Based in **Hangzhou, China**
 
@@ -17,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 **Languages:** Python · C++ · Java  
-**Tools:** Git · GitHub · Jupyter · VS Code    
+**Tools:** Git · GitHub · Jupyter · VS Code  
 
 ---
 
