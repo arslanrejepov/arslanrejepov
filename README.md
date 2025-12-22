@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Arslan!
 
 🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**   
-📊 Practicing **Data Science and Backend projects**  
+📊 Practicing **Data Science and Backend projects with FastAPI**  
 🌍 Based in **Hangzhou, China**
 
 ---
@@ -14,9 +14,8 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python · C++ · Java  
-**Tools:** Git · GitHub · Jupyter · VS Code  
-
+**Languages & Tools:** Python · C++ · Java · Git
+**Libraries:** Python(Data Science and Backend with FastAPI) · C++(Standart) · Java(java.util,java.io)
 ---
 
 ### 📫 Connect with Me
