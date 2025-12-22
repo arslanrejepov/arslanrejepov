@@ -1,14 +1,14 @@
 # Hey, I'm Arslan! 👋
 
 **Computer Science Student** @ Zhejiang University of Technology (ZJUT)  
-🌍 **Data Science & Backend Development Enthusiast** | **FastAPI**  
-📍 **Located in Hangzhou, China**
+🌍 **Practicing Data Science and Backend Development** with **FastAPI**  
+📍 **Based in Hangzhou, China**
 
 ## About Me
 
-- 💻 Currently enhancing skills in **Data Science** and **Backend Development**
-- 🔢 Passionate about **solving algorithms** and **data-driven challenges**
-- 🧠 Exploring the synergy of **AI** and **human psychology**
+- 💻 Currently improving my **Data Science** and **Backend Development** skills
+- 🔢 I am good at solving **mathematical** and **algorithmic** challenges
+- 🧠 Exploring how **AI** connects with **human psychology**
 
 ---
 
@@ -16,9 +16,9 @@
 
 ### Languages & Tools:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
