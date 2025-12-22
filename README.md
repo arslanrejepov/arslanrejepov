@@ -1,31 +1,35 @@
-## 👋 Hey, I'm Arslan!
+# Hey, I'm Arslan!
 
-🎓 **Computer Science Student @ Zhejiang University of Technology (ZJUT)**   
-📊 Practicing **Data Science and Backend projects with FastAPI**  
-🌍 Based in **Hangzhou, China**
+👨‍💻 **Computer Science Student** @ Zhejiang University of Technology (ZJUT)  
+🌍 **Practicing Data Science and Backend Development** with FastAPI  
+📍 **Based in Hangzhou, China**
+
+## About Me
+
+- 💻 Currently improving my **Data Science** and **Backend Development** skills
+- 🔢 Passionate about solving **mathematical** and **algorithmic challenges**
+- 🧠 Exploring the intersection of **AI** and **human psychology**
+
+---
+
+## Tech Stack
+
+### Languages & Tools:
+- **Python** | **C++** | **Java** | **Git**
+
+### Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/arslan/)
+- [Kaggle](https://www.kaggle.com/)
+- [Telegram](https://t.me/)
+- [Instagram](https://www.instagram.com/)
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently improving my **Data Science** and **Backend DEV** skills  
-- 📚 I am good at solving **mathematical** and **algorithmic** challenges  
-- 💬 Interting how **AI** connects with **human psychology**   
+## Languages I Speak
+- **Russian**: Fluent
+- **Chinese**: Elementary
+- **English**: Intermediate
 
 ---
 
-### 🛠️ Tech Stack
-**Languages & Tools:** Python · C++ · Java · Git
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20BEFF?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/arslan-rejepov-558978341/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arsrejepov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ars.rejepov)
-
----
-## 🗣️ Languages I Speak
-
-🇷🇺 **Russian** – Fluent  
-🇨🇳 **Chinese** – Elementry  
-🇬🇧 **English** –  Intermediate
+Feel free to reach out to me through any of the channels above for collaboration, learning, or interesting discussions!
