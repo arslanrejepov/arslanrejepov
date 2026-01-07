@@ -1,14 +1,12 @@
 # Hey, I'm Arslan! 👋
 
 **Computer Science Student** @ Zhejiang University of Technology (ZJUT)  
-🌍 **Practicing Data Science and Backend Development** with **FastAPI**  
 📍 **Based in Hangzhou, China**
 
 ## About Me
 
 - 💻 Currently improving my **Data Science** and **Backend Development** skills
 - 🔢 I am good at solving **mathematical** and **algorithmic** challenges
-- 🧠 Exploring how **AI** connects with **human psychology**
 ---
 ## Other platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/) 
