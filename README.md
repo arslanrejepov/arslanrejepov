@@ -1,4 +1,4 @@
-# Arslan Rejebov! 👋
+# I am Arslan Rejebov! 👋
 
 **Computer Science ** @ Zhejiang University of Technology (ZJUT)  
 📍 **Based in Hangzhou, China**
