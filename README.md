@@ -8,5 +8,14 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 - 💻 Currently improving my **Data Science** and **Backend Development** skills
 - 🔢 I am good at solving **mathematical** and **algorithmic** challenges
 ---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## Other platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslan/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/) 
