@@ -23,6 +23,13 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 
 ---
 
+## Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanRejepov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## Other platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/arslan-rejepov/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arslanrejepov)
