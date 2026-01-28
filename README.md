@@ -31,7 +31,7 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 ---
 
 ## Other platforms:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/arslan-rejepov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/arslan-rejepov-558978341/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arslanrejepov)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/arslan-rejepov-174)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ArslanRejepov/)
