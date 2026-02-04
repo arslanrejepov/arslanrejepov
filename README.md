@@ -5,7 +5,7 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 
 ## About Me
 
-- 💻 Working **Classical ML** and **DeepLearning** 
+- 💻 Working on **Classical ML** and **DeepLearning** 
 - 🔢 Use **Math** and let machine design **Algoritm**
 - 🌐 Add some **FastAPI** and deploy model 
 ---
@@ -18,6 +18,7 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </div>
 
 ---
