@@ -5,8 +5,9 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 
 ## About Me
 
-- 💻 Currently improving my **Data Science** and **Backend Development** skills
-- 🔢 I am good at solving **mathematical** and **algorithmic** challenges
+- 💻 Working **Classical ML** and **DeepLearning** 
+- 🔢 Use **Math** and let machine design **Algoritm**
+- 🌐 Add some **FastAPI** and deploy model 
 ---
 
 ## 🛠️ Tools & Technologies
@@ -18,13 +19,6 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </div>
-
----
-
-## Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanrejepov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
