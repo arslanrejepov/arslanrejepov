@@ -7,7 +7,8 @@ Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technolo
 
 - 💻 Building classical **Machine Learning** and **Deep Learning** models 
 - 🔢 Applying mathematical principles to design and optimize algorithms
-- 🌐 Exposing trained models via **FastAPI** 
+- 🌐 Exposing trained models via **FastAPI**
+- 🧠 **Mathematics** for Machine Learning 
 ---
 
 ## 🛠️ Tools & Technologies
