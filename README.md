@@ -1,6 +1,6 @@
 # I am Arslan Rejebov! 👋
 
-Sophomore at Colloge of **Computer Science**   @ Zhejiang University of Technology (ZJUT)  
+Sophomore at Colloge of **Computer Science** specialized Software Engineering   @ Zhejiang University of Technology (ZJUT)  
 📍 **Based in Hangzhou, China**
 
 ## About Me
