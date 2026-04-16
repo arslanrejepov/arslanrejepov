@@ -14,41 +14,34 @@ Sophomore at Colloge of **Computer Science** specialized Software Engineering   
 ## 🛠️ Tools & Technologies
 
 
-<div align="left">
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+<table>
+<tr>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-learn
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/><br>FastAPI
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-</span>
-
-<span style="display:inline-block; text-align:center; margin-right:14px;">
+</td>
+<td align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow
-</span>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
