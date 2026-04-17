@@ -68,3 +68,7 @@ Sophomore at Colloge of **Computer Science** specialized Software Engineering   
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Arslan_Rejepov-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arslanrejepov.github.io/)
