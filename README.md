@@ -50,8 +50,6 @@ Sophomore at Colloge of **Computer Science** specialized Software Engineering   
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <div align="center">
 
 <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=arslanrejepov&theme=tokyo-night&hide_border=true&area=true"/>
