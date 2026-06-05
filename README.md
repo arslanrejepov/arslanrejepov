@@ -25,25 +25,6 @@ Sophomore at Colloge of **Computer Science** specialized Software Engineering   
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=arslanrejepov&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com?user=arslanrejepov&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🌐 Other Platforms
 
